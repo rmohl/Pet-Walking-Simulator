@@ -1,9 +1,13 @@
 # Pet-Walking Simulator
 
 Author: Rachael Mohl
+
 Language: Java
+
 Creation Tools: Eclipse, Processing
+
 Last Updated: January 25, 2019
+
 Description: RPG-style game in which the player creates a character and chooses a pet, and then - get this -  walks their pet. However, this is no leisure pet-walking game, the player must strategically battle enemies that could attack them on their walk!
 
 ## Installation
