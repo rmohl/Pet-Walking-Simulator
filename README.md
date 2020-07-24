@@ -14,14 +14,14 @@ Download the JAR file titled 'PetWalkingSimulator.jar'. This file can be found i
 
 ### Requirements
 
-You will need Java 8 installed in order to run the program from the terminal, as projects created with Processing require this.
+You will need Java 8 installed in order to run this program from the terminal, as this applies to all projects created with Processing.
 If you do not have Java 8 installed, note that you will not be able to run the program from the terminal, but you are still able to run it with a default Jar Launcher application (i.e. you'll be able to run it by double clicking the downloaded JAR file).
 
-### Terminal Commands (ONLY WITH JAVA 8)
+### Terminal Commands (ONLY WITH JAVA VERSION 8)
 
 1. Go to directory in which JAR file has been saved
 
-2. Type:
+2. Enter:
 ```bash
-java -jar PetWalkingSimulator.jar
+$ java -jar PetWalkingSimulator.jar
 ```
