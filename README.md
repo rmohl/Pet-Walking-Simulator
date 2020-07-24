@@ -22,7 +22,6 @@ If you do not have Java 8 installed, note that you will not be able to run the p
 1. Go to directory in which JAR file has been saved
 
 2. Type:
-'''bash
+```bash
 java -jar PetWalkingSimulator.jar
-'''
-# Pet-Walking-Simulator
+```
